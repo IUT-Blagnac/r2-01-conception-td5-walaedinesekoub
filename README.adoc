@@ -37,9 +37,9 @@ Prénom:: Walaedine
 Groupe #::
 
 [%interactive]
-- [X] Enseignants
+- [ ] Enseignants
 - [ ] 1
-- [ ] 2
+- [X] 2
 - [ ] 3
 - [ ] 4
 
